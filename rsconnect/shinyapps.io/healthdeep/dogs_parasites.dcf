@@ -1,0 +1,14 @@
+name: dogs_parasites
+title: dogs_parasites
+username:
+account: healthdeep
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7967088
+bundleId: 6691536
+url: https://healthdeep.shinyapps.io/dogs_parasites/
+when: 1672714260.56122
+lastSyncTime: 1672714260.56125
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/.DS_Store|essai.R
